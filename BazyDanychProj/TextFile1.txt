@@ -1,0 +1,1 @@
+﻿dodaj logowanie do klasy app
